@@ -1,61 +1,67 @@
-<h1 align="center">👋 Hey, I'm Dheeraj Vanamala</h1>
-<h3 align="center">🚀 SRE | DevOps | Platform Engineering</h3>
+<h1 align="center">Hi, I’m Dheeraj Vanamala</h1>
+<h3 align="center">Founder @ Clarvynn | Bringing Observability under Source Control</h3>
 
 <p align="center">
-🔹 Building scalable, reliable, and automated infrastructure <br>
-🔹 Working on an **enterprise-level endgame project** <br>
-🔹 Exploring Kubernetes, GitOps, Terraform, and Observability
+Building the future of observability from first principles  
+Creator of Clarvynn: an AI-native control plane for application telemetry  
+Redefining how teams ship, monitor, and scale production systems
 </p>
 
 ---
 
-### 🚀 About Me  
-🔹 Passionate about **SRE, DevOps, and Platform Engineering**  
-🔹 Love solving infrastructure challenges and building automation-driven workflows  
-🔹 Currently working on **a hands-on, real-world DevOps/SRE project** integrating multiple technologies  
-🔹 Exploring **Kubernetes, GitOps, Terraform, Observability, and Cloud**  
-🔹 Previously worked as a **Python Developer & DevOps Engineer**  
+## What I'm Building
+
+**Clarvynn** – A first-of-its-kind Telemetry as Code platform  
+- Enables engineers to define and enforce telemetry generation through structured, version-controlled configuration  
+- Brings observability under source control with consistent behavior across environments  
+- Supports OpenTelemetry standards, including trace-metric correlation and exemplars  
+- Designed to suppress low-signal noise at the source, reducing vendor and infra costs by up to 90%  
+- Helps teams retain full visibility into meaningful events without overwhelming their systems or budgets
 
 ---
 
-### 🛠️ Tech Stack  
-**🔹 DevOps & SRE:** Kubernetes | GitOps | Terraform | CI/CD | Observability | Cloud Automation  
-**🔹 Cloud:** Azure | GCP (some exposure)  
-**🔹 Monitoring & Logging:** Prometheus | Grafana | OpenTelemetry | ELK Stack  
-**🔹 CI/CD:** GitHub Actions | Azure DevOps | GitLab CI/CD  
-**🔹 Infrastructure as Code:** Terraform | Ansible  
-**🔹 Scripting & Development:** Python | Bash  
-**🔹 Security:** IAM | Network Policies | Zero Trust  
+## Areas of Focus
+
+- Observability Platforms (Prometheus, Mimir, Grafana, Tempo, OpenTelemetry)  
+- Infrastructure as Code and GitOps (Terraform, ArgoCD, CI/CD pipelines)  
+- Distributed Systems, Service Instrumentation, and Cost Optimization  
+- Python and Go-based backend engineering  
+- Developer platforms and production-grade system design
 
 ---
 
-### 🏆 The **Enterprise-Grade DevOps/SRE Project**  
-🚀 **Mission:** Build a **production-grade** enterprise-level system integrating **Kubernetes, GitOps, Terraform, Observability, and Incident Response.**  
-🔹 **Focus Areas:** Microservices, High Availability, Multi-Cloud, Full Automation.  
-🔹 **Tech Stack:** Kubernetes, Terraform, OpenTelemetry, ArgoCD, CI/CD Pipelines.  
-🔹 **Status:** *Work in progress* – [Repository coming soon!]  
+## Tech Stack
+
+**Languages**: Python, Bash, Go (learning)  
+**Cloud**: Azure (Primary), GCP (Experience)  
+**Infra & Orchestration**: Kubernetes, Terraform, GitOps  
+**Observability**: OpenTelemetry, Prometheus, Grafana, Jaeger, Tempo  
+**CI/CD**: GitHub Actions, Azure DevOps, GitLab  
+**DevOps Practices**: SRE, HPA, Autoscaling, Incident Response  
+**Security**: IAM, Firewall, Bastion, Network Isolation
 
 ---
 
-### 📌 Featured Repositories  
-🔥 **[Observability Stack](#)** → Complete SRE-level monitoring with Prometheus, Grafana, and OpenTelemetry  
-🔥 **[Terraform Cloud Infra](#)** → Production-ready infrastructure with Terraform & automation  
-🔥 **[GitOps CI/CD](#)** → Kubernetes deployments with ArgoCD & GitOps  
+## Background
 
-*(More projects coming soon...)*  
-
----
-
-### 📊 GitHub Stats  
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-vanamala&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-vanamala&layout=compact&theme=radical)  
+Previously held DevOps and Python engineering roles at Jukshio  
+Hands-on experience building scalable backend systems, optimizing GCP costs, and implementing disaster recovery strategies  
+Currently focused on building Clarvynn into an open, production-ready telemetry governance layer adopted by modern engineering teams
 
 ---
 
-### 📬 Connect with Me  
-💼 **LinkedIn:** [linkedin.com/in/dheerajvanamala](https://www.linkedin.com/in/dheerajvanamala/)  
-📫 **Email:** dheerajvanamala@gmail.com  
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-vanamala&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-vanamala&layout=compact&theme=radical)
 
 ---
 
-🔥 *"Building resilient infrastructure, one system at a time."*  
+## Contact
+
+**LinkedIn**: [linkedin.com/in/dheerajvanamala](https://linkedin.com/in/dheerajvanamala)  
+**Email**: dheerajvanamala@gmail.com
+
+---
+
+Building infrastructure that scales. Shipping systems that matter.
