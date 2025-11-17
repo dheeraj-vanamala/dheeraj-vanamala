@@ -34,11 +34,12 @@ Building tools to reduce observability costs without losing critical signals
 4 years in platform engineering and infrastructure optimization:
 
 - Delivered ₹25 lakh/month recurring infrastructure cost savings
-- Designed disaster recovery systems for production databases
-- Implemented monitoring and alerting across 50+ microservices
-- Led security remediation and compliance initiatives
+- Implemented Kubernetes HPA-based auto-scaling for production microservices
+- Designed disaster recovery systems for production vector databases
+- Led security remediation addressing critical vulnerabilities
+- Performed load testing and identified performance bottlenecks
 
-Previously at Jukshio Technologies. Currently freelancing and building Clarvynn.
+Previously R&D Engineer at Jukshio Technologies. Currently freelancing and building Clarvynn.
 
 ---
 
@@ -46,8 +47,8 @@ Previously at Jukshio Technologies. Currently freelancing and building Clarvynn.
 
 **Infrastructure:** Kubernetes, Docker, Terraform, Azure, GCP  
 **Observability:** OpenTelemetry, Prometheus, Grafana, Distributed Tracing  
-**Development:** Python, Go, Bash  
-**Practices:** Cost optimization, disaster recovery, performance profiling
+**Development:** Python, Bash  
+**Practices:** Cost optimization, Disaster recovery, Performance profiling
 
 ---
 
