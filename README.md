@@ -1,67 +1,68 @@
-<h1 align="center">Hi, I’m Dheeraj Vanamala</h1>
-<h3 align="center">Founder @ Clarvynn | Bringing Observability under Source Control</h3>
+<h1 align="center">Dheeraj Vanamala</h1>
+<h3 align="center">Platform Engineer | Observability & Infrastructure</h3>
 
 <p align="center">
-Building the future of observability from first principles  
-Creator of Clarvynn: an AI-native control plane for application telemetry  
-Redefining how teams ship, monitor, and scale production systems
+Building tools to reduce observability costs without losing critical signals
 </p>
 
 ---
 
-## What I'm Building
+## Current Project
 
-**Clarvynn** – A first-of-its-kind Telemetry as Code platform  
-- Enables engineers to define and enforce telemetry generation through structured, version-controlled configuration  
-- Brings observability under source control with consistent behavior across environments  
-- Supports OpenTelemetry standards, including trace-metric correlation and exemplars  
-- Designed to suppress low-signal noise at the source, reducing vendor and infra costs by up to 90%  
-- Helps teams retain full visibility into meaningful events without overwhelming their systems or budgets
+### Clarvynn - Observability Governance Platform
 
----
+**The problem:** Teams generate terabytes of telemetry they know is wasteful (health checks, debug logs, routine operations), but have no easy way to control what gets created.
 
-## Areas of Focus
+**The solution:** Policy-based governance at the source—before data enters pipelines or backends.
 
-- Observability Platforms (Prometheus, Mimir, Grafana, Tempo, OpenTelemetry)  
-- Infrastructure as Code and GitOps (Terraform, ArgoCD, CI/CD pipelines)  
-- Distributed Systems, Service Instrumentation, and Cost Optimization  
-- Python and Go-based backend engineering  
-- Developer platforms and production-grade system design
+**What's built:**
+- Python OTEL adapter for tail-based sampling at SDK level
+- Support for Flask, Django, FastAPI applications
+- Policy language (CPL) for defining capture/suppress rules
+- Works with any OTLP-compatible backend
 
----
+**Current status:** Validating with pilot customer for production deployment.
 
-## Tech Stack
+**Open source. Apache 2.0.**
 
-**Languages**: Python, Bash, Go (learning)  
-**Cloud**: Azure (Primary), GCP (Experience)  
-**Infra & Orchestration**: Kubernetes, Terraform, GitOps  
-**Observability**: OpenTelemetry, Prometheus, Grafana, Jaeger, Tempo  
-**CI/CD**: GitHub Actions, Azure DevOps, GitLab  
-**DevOps Practices**: SRE, HPA, Autoscaling, Incident Response  
-**Security**: IAM, Firewall, Bastion, Network Isolation
+→ [github.com/Clarvynn/Clarvynn](https://github.com/Clarvynn/Clarvynn)
 
 ---
 
 ## Background
 
-Previously held DevOps and Python engineering roles at Jukshio  
-Hands-on experience building scalable backend systems, optimizing GCP costs, and implementing disaster recovery strategies  
-Currently focused on building Clarvynn into an open, production-ready telemetry governance layer adopted by modern engineering teams
+4 years in platform engineering and infrastructure optimization:
+
+- Delivered ₹25 lakh/month recurring infrastructure cost savings
+- Designed disaster recovery systems for production databases
+- Implemented monitoring and alerting across 50+ microservices
+- Led security remediation and compliance initiatives
+
+Previously at Jukshio Technologies. Currently freelancing and building Clarvynn.
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-vanamala&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-vanamala&layout=compact&theme=radical)
-
----
-
-## Contact
-
-**LinkedIn**: [linkedin.com/in/dheerajvanamala](https://linkedin.com/in/dheerajvanamala)  
-**Email**: dheerajvanamala@gmail.com
+**Infrastructure:** Kubernetes, Docker, Terraform, Azure, GCP  
+**Observability:** OpenTelemetry, Prometheus, Grafana, Distributed Tracing  
+**Development:** Python, Go, Bash  
+**Practices:** Cost optimization, disaster recovery, performance profiling
 
 ---
 
-Building infrastructure that scales. Shipping systems that matter.
+## Open to Opportunities
+
+**Looking for:** Remote platform engineering roles  
+**Interested in:** Observability platforms, FinOps, DevTools, Kubernetes infrastructure
+
+**Contact:**  
+Email: dheerajvanamala@clarvynn.io  
+LinkedIn: [linkedin.com/in/dheeraj-vanamala](https://linkedin.com/in/dheeraj-vanamala)  
+Location: India (Remote)
+
+---
+
+<p align="center">
+<sub>Building infrastructure that scales</sub>
+</p>
