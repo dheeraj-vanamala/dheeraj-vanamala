@@ -13,7 +13,7 @@ Building tools to reduce observability costs without losing critical signals
 
 **The problem:** Teams generate terabytes of telemetry they know is wasteful (health checks, debug logs, routine operations), but have no easy way to control what gets created.
 
-**The solution:** Policy-based governance at the source—before data enters pipelines or backends.
+**The solution:** Policy-based governance at the source - before data enters pipelines or backends.
 
 **What's built:**
 - Python OTEL adapter for tail-based sampling at SDK level
