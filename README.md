@@ -1,67 +1,50 @@
 <h1 align="center">Dheeraj Vanamala</h1>
-<h3 align="center">Platform Engineer | Observability & Infrastructure</h3>
+<h3 align="center">Platform Engineer |Building for OpenTelemetry Ecosystem</h3>
 
 <p align="center">
-Building tools to reduce observability costs without losing critical signals
+I focus on the intersection of **Infrastructure Efficiency** and **Observability Governance**. My goal is to bridge the gap between "Storing Everything" and "Understanding Anything."
 </p>
 
 ---
 
-## Current Project
+### Current Focus: [Clarvynn](https://github.com/Clarvynn/Clarvynn)
+**Status:** *Active Development*
 
-### Clarvynn - Observability Governance Platform
+I am building **Clarvynn**, an open-source initiative to solve "Telemetry Sprawl" at the source.
 
-**The problem:** Teams generate terabytes of telemetry they know is wasteful (health checks, debug logs, routine operations), but have no easy way to control what gets created.
+* **The Thesis:** Moving governance **upstream** (into the application runtime) is more efficient than filtering **downstream** (at the Collector/Database).
+* **The Tech:** A Python-based OTel adapter that sits in-process to curate high-fidelity signals before serialization.
+* **The Goal:** Eliminate the "Serialization Tax" and give developers control over their observability budget via **Telemetry Contracts**.
 
-**The solution:** Policy-based governance at the source - before data enters pipelines or backends.
 
-**What's built:**
-- Python OTEL adapter for tail-based sampling at SDK level
-- Support for Flask, Django, FastAPI applications
-- Policy language (CPL) for defining capture/suppress rules
-- Works with any OTLP-compatible backend
 
-**Current status:** Validating with pilot customer for production deployment.
-
-**Open source. Apache 2.0.**
-
-→ [github.com/Clarvynn/Clarvynn](https://github.com/Clarvynn/Clarvynn)
+--> **[Check out the Repository](https://github.com/Clarvynn/Clarvynn)** to see the architecture and roadmap.
 
 ---
 
-## Background
+### Engineering Philosophy
 
-4 years in platform engineering and infrastructure optimization:
-
-- Delivered ₹25 lakh/month recurring infrastructure cost savings
-- Implemented Kubernetes HPA-based auto-scaling for production microservices
-- Designed disaster recovery systems for production vector databases
-- Led security remediation addressing critical vulnerabilities
-- Performed load testing and identified performance bottlenecks
-
-Previously R&D Engineer at Jukshio Technologies. Currently freelancing and building Clarvynn.
+* **Signals > Noise:** Observability is a data quality problem, not just a storage pricing problem.
+* **Source Governance:** The service owner knows the intent of a log; the SRE only knows the cost. Governance belongs where the intent lives.
+* **Infrastructure as Code:** If it isn't defined in code (or a contract), it doesn't exist.
 
 ---
 
-## Tech Stack
+### The Toolbox
 
-**Infrastructure:** Kubernetes, Docker, Terraform, Azure, GCP  
-**Observability:** OpenTelemetry, Prometheus, Grafana, Distributed Tracing  
-**Development:** Python, Bash  
-**Practices:** Cost optimization, Disaster recovery, Performance profiling
+* **Observability:** OpenTelemetry (OTLP), Prometheus, Grafana, Distributed Tracing
+* **Infrastructure:** Kubernetes, Docker, Terraform, Azure, GCP
+* **Languages:** Python, Bash
+* **Practices:** FinOps, Performance Engineering
 
 ---
 
-## Open to Opportunities
+### Let's Connect
 
-**Looking for:** Remote platform engineering roles  
-**Interested in:** Observability platforms, FinOps, DevTools, Kubernetes infrastructure
+I am always open to discussing **OpenTelemetry patterns**, **Platform Engineering**, and **OSS Collaboration**.
 
-**Contact:**  
-Email: dheerajvanamala@clarvynn.io  
-LinkedIn: [linkedin.com/in/dheeraj-vanamala](https://linkedin.com/in/dheeraj-vanamala)  
-Location: India (Remote)
-
+* **Discussion:** [Clarvynn/Discussions](https://github.com/Clarvynn/Clarvynn/discussions)
+* **LinkedIn:** [dheeraj-vanamala](https://linkedin.com/in/dheeraj-vanamala)
 ---
 
 <p align="center">
