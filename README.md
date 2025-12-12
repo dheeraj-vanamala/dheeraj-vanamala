@@ -1,5 +1,5 @@
 <h1 align="center">Dheeraj Vanamala</h1>
-<h3 align="center">Platform Engineer |Building for OpenTelemetry Ecosystem</h3>
+<h3 align="center">Platform Engineer | Building for OpenTelemetry Ecosystem</h3>
 
 <p align="center">
 I focus on the intersection of **Infrastructure Efficiency** and **Observability Governance**. My goal is to bridge the gap between "Storing Everything" and "Understanding Anything."
